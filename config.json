@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+      "local_uri": "mysql+pymysql://root:@localhost/blog",
+      "prod_uri":"mysql+pymysql://root:@localhost/blog",
+      "fb_url":"https://facebook.com/blog",
+      "tw_url":"https://twitter.com/blog",
+      "gh_url":"https://github.com/blog",
+      "blog_name":"Ankit blog",
+      "gmail-user":"#####@gmail.com",
+      "gmail-password":"############",
+      "about_text": "Hi , my name is Ankit and I am a data scientist and I love coding",
+      "admin_user":"#########",
+      "admin_password" : "#########",
+      "upload_location": "C:\\Users\\ankit bansal\\Desktop\\flask\\static",
+      "no_of_posts" : "2"
+      
+  
+  
+    }
+  
+  }
